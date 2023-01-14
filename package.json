@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "desandro-get-style-property": "^1.0.4",
+    "desandro-matches-selector": "^2.0.2",
+    "doc-ready": "^1.0.4",
+    "ejs": "^3.1.8",
+    "eventie": "^1.0.6",
+    "express": "^4.18.2",
+    "fizzy-ui-utils": "^3.0.0",
+    "get-size": "^3.0.0",
+    "jquery": "^3.6.3",
+    "jsdom": "^21.0.0",
+    "masonry-layout": "^4.2.2",
+    "outlayer": "^2.1.1",
+    "path": "^0.12.7",
+    "popper.js": "^1.16.1",
+    "wolfy87-eventemitter": "^5.2.9"
+  },
+  "name": "tph",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
